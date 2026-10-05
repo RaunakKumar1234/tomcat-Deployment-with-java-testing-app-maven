@@ -524,7 +524,7 @@
 
     <section id="home" class="hero">
         <div class="hero-content">
-            <h1>Hii Raunak singh </h1>
+            <h1>Hii Raunak singh King</h1>
             <h1>This change was automatically deployed through Jenkins after a GitHub commit.</h1>
             <p class="subtitle">Full Stack Developer | Cloud Architect | Data Scientist | DevOps Engineer | Cybersecurity Specialist</p>
             <a href="#about" class="cta-button">Explore My Work</a>

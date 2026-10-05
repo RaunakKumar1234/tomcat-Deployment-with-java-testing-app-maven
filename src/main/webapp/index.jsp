@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Abhishek Kumar - Full Stack Developer & Cloud Architect</title>
+    <title>Raunak Singh - Full Stack Developer & Cloud Architect</title>
     <meta name="description" content="Abhishek Kumar - Full Stack Developer specializing in Java, Python, .NET, Go, Data Science, Cloud Architecture, DevOps, and Cybersecurity">
     <style>
         * {
@@ -468,7 +468,7 @@
 <body>
     <header id="header">
         <nav class="container">
-            <a href="#home" class="logo">Abhishek Kumar</a>
+            <a href="#home" class="logo">Raunak Singh</a>
             <ul class="nav-links" id="navLinks">
                 <li><a href="#home">Home</a></li>
                 <li><a href="#about">About</a></li>

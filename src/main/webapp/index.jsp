@@ -524,7 +524,8 @@
 
     <section id="home" class="hero">
         <div class="hero-content">
-            <h1>Abhishek Kumar</h1>
+            <h1>Raunak Singh</h1>
+            <h1>Hii Abhishek Sir</h1>
             <p class="subtitle">Full Stack Developer | Cloud Architect | Data Scientist | DevOps Engineer | Cybersecurity Specialist</p>
             <a href="#about" class="cta-button">Explore My Work</a>
         </div>

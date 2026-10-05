@@ -578,7 +578,7 @@
             <h2>Featured Projects</h2>
             <div class="projects-grid">
                 <div class="project-card">
-                    <h3>🏛️ PMC Workshop Portal</h3>
+                    <h3>🏛️ PMC Workshop Portal hiii</h3>
                     <p>Government web application built with Python Django, HTML, CSS, JavaScript. Hosted on RedHat Linux with PostgreSQL. Features user authentication, workshop scheduling, and admin controls.</p>
                     <a href="https://pmcworkshop.bihar.gov.in/login/?next=/" class="project-link" target="_blank">View Live Project →</a>
                 </div>

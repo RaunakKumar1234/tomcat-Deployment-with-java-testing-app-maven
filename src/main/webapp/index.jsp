@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Raunak Singh - Full Stack Developer & Cloud Architect</title>
+    <title>Raunak Singh 1- Full Stack Developer & Cloud Architect</title>
     <meta name="description" content="Abhishek Kumar - Full Stack Developer specializing in Java, Python, .NET, Go, Data Science, Cloud Architecture, DevOps, and Cybersecurity">
     <style>
         * {
